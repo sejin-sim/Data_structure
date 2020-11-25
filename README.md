@@ -48,5 +48,9 @@
  > 1) 이진트리 구현_순환 in 트리
  > 2) 이진트리 구현_순환 in 노드
  
-9. 이진탐색트리
+9. 이진탐색트리(Binary Search Tree)
  > 1) 이진탐색트리 구현_순환 in 트리
+
+10. 힙(Heap)
+ > 1) 최대힙(Maxheap) with 노드
+ > 2) 최대힙(Maxheap) with 배열

@@ -3,7 +3,7 @@
 * 교재 : C++로 쉽게 풀어쓴 자료구조
 * 사용 언어 : Python
 
-1. 시간 복잡도(Big O) : 복잡도에 따른 실행 횟수 test & 그래프 표시(matplot)
+1. [시간 복잡도(Big O)](https://colab.research.google.com/github/sejin-sim/Data_structure/blob/master/01_시간복잡도(Big%20O).ipynb) : 복잡도에 따른 실행 횟수 test & 그래프 표시(matplot)
 
 2. 클래스(Class)
  > 1) 다항식
